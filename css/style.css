@@ -1,0 +1,49 @@
+body {
+    background-color: aliceblue;
+}
+.photo {
+    border-radius: 50%;
+    width: 35%;
+    height: 40%;
+}
+.signature P{
+font-size: 60px;
+color: black;
+font-weight: bold;
+}
+hr{
+    width: 20%;
+    border-style: ridge solid dotted dashed;
+    border-width: 1px;
+}
+
+/* Synopsis CSS starts */
+.synopsis h4{
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+.synopsis{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: justify;
+}
+
+/* Personal Qualities CSS */
+.qualities h4{
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+
+.qualities{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: justify;
+}
